@@ -1,4 +1,4 @@
-module github.com/mholt/caddy-l4
+module github.com/aksial/caddy-l4
 
 go 1.18
 
